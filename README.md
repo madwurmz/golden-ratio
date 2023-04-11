@@ -1,6 +1,8 @@
 # golden-ratio
 1.618
 
+#The golden ratio has this inherent balance and pleasing property of being the ratio of two quantities where the ratio of one to the other is equal to the ratio of the sum of both.
+
 The golden ratio is found by dividing a line into two parts such that the longer part divided by the smaller part is equal to the sum of the two parts divided by the longer part.
 # The golden ratio has geometric and aesthetic properties that are utilized by nature to optimize growth and to devine shape.
 
